@@ -17,4 +17,4 @@ public class Functions {
     System.out.println(sum(120, 110));
 
    }
-} 
+}  
