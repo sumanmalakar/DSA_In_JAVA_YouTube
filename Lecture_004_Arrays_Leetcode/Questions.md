@@ -13,4 +13,4 @@
 7.) 414 – Third Maximum Number :- https://leetcode.com/problems/third-maximum-number/
 
 
-Solution :- https://youtu.be/scoTe26MFl4?si=m1_0L37aZ-Q0y3F4
+Solution :- https://youtu.be/scoTe26MFl4?si=m1_0L37aZ-Q0y3F4 
