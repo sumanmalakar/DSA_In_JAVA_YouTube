@@ -21,4 +21,4 @@ public class Index {
        for(int x : nums) System.out.print(x+" ");
 
     }
-}
+} 
