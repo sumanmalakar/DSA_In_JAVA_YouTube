@@ -4,4 +4,6 @@
 
 2.) LeetCode 278. First Bad Version :- https://leetcode.com/problems/first-bad-version/
 
-3.) LeetCode 69. Sqrt(x) :- https://leetcode.com/problems/sqrtx/
+3.) LeetCode 69. Sqrt(x) :- https://leetcode.com/problems/sqrtx/ 
+
+Solution :- https://youtu.be/kei3PxJHTGo?si=PLFLeKTaOe79ipVI
